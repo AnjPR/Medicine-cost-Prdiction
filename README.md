@@ -6,4 +6,4 @@ It covers topic:
 	Plotting Heatmap to see dependency of Dependent valeu on Independent features,
 	Data Visualization (Plots of feature vs feature),
 	Prediction using Linear Regression,
-	Prediction using Random Forest Regressor,
+	Prediction using Random Forest Regressor
