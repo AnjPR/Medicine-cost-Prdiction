@@ -1,4 +1,4 @@
-# Medicine-cost-Prdiction
+# Medicine cost Prediction
 This repo contains a Data preprocessing, Data Visualization, Prediction using various models.Which predicts the charge of medicine.
 It covers topic:
 	Exploring the dataset,
